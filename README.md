@@ -3,7 +3,7 @@
 Bem-vindo(a) ao meu repositório de estudos em Java! ☕  
 Aqui você encontrará diversos códigos que venho desenvolvendo com o objetivo de treinar, reforçar conceitos e me aprimorar como programador Java.
 
-## 📚 Sobre o repositório
+# 📚 Sobre o repositório
 
 Este repositório contém:
 
@@ -14,7 +14,7 @@ Este repositório contém:
 
 Todos os códigos aqui foram feitos com foco em aprendizado. Sinta-se à vontade para explorar, dar sugestões ou contribuir!
 
-# #💡 Objetivo
+# 💡 Objetivo
 Meu objetivo com este repositório é:
 
 -Consolidar o que aprendo estudando Java
@@ -23,6 +23,6 @@ Meu objetivo com este repositório é:
 
 -Compartilhar com outros estudantes e devs iniciantes
 
-# #✍️ Autor
+# ✍️ Autor
 Feito com 💻 por Otávio Guedes
 Se quiser trocar ideias ou sugerir melhorias, fique à vontade para abrir issues ou pull requests!
